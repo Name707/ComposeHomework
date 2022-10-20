@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">ComposeHomework</string>
-    <string name="all_tasks_completed">All tasks completeeed</string>
+    <string name="all_tasks_completed">All tasks completeeed!</string>
 </resources>
